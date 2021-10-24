@@ -1,0 +1,14 @@
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.exe
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.deps.json
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.json
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.dev.json
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+E:\ASP.NET\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.AssemblyReference.cache
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfoInputs.cache
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfo.cs
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.CoreCompileInputs.cache
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+E:\ASP.NET\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.genruntimeconfig.cache
